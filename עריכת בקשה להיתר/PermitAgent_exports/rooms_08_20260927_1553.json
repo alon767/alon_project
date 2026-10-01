@@ -1,0 +1,1909 @@
+{
+ "rooms_new_temporary": 44, 
+ "rooms_with_truth_text": 43, 
+ "rooms": [
+  {
+   "wall_types": [
+    "C20", 
+    "C30", 
+    "ISH- בסיס"
+   ], 
+   "flags": {}, 
+   "area_m2": 71.680000000000007, 
+   "floor_type": "C20_T13 - מרפסת", 
+   "balcony_floor_name": true, 
+   "rule": "balcony floor type (double check: railing on perimeter)", 
+   "truth_names": [
+    "מרפסת"
+   ], 
+   "match": true, 
+   "floor_offset_cm": -2.0, 
+   "doors": [], 
+   "guess_extras": [], 
+   "guess": "מרפסת", 
+   "railing_on_perimeter": true, 
+   "id": 1622278, 
+   "contents": [
+    "Generic Models | חבלים על קיר : Type 1"
+   ], 
+   "floor_types": [
+    "C20_T13 - מרפסת (-2.0)"
+   ], 
+   "truth_texts": [
+    "מרפסת"
+   ], 
+   "point_cm": [
+    1559.0, 
+    1122.0
+   ], 
+   "entrance_doors": 0
+  }, 
+  {
+   "wall_types": [
+    "C20", 
+    "C30", 
+    "ISH- בסיס"
+   ], 
+   "flags": {}, 
+   "area_m2": 62.780000000000001, 
+   "floor_type": "C20_T13 - מרפסת", 
+   "balcony_floor_name": true, 
+   "rule": "balcony floor type (double check: railing on perimeter)", 
+   "truth_names": [
+    "מרפסת"
+   ], 
+   "match": true, 
+   "floor_offset_cm": -2.0, 
+   "doors": [], 
+   "guess_extras": [], 
+   "guess": "מרפסת", 
+   "railing_on_perimeter": true, 
+   "id": 1622276, 
+   "contents": [
+    "Generic Models | חבלים על קיר : Type 1"
+   ], 
+   "floor_types": [
+    "C20_T13 - מרפסת (-2.0)"
+   ], 
+   "truth_texts": [
+    "מרפסת"
+   ], 
+   "point_cm": [
+    3379.0, 
+    3212.0
+   ], 
+   "entrance_doors": 0
+  }, 
+  {
+   "wall_types": [
+    "B10", 
+    "C20"
+   ], 
+   "flags": {
+    "sofa": true, 
+    "kitchen": true, 
+    "dining": true
+   }, 
+   "area_m2": 57.469999999999999, 
+   "floor_type": "C20_T15", 
+   "balcony_floor_name": false, 
+   "rule": "open space: sofa/kitchen/dining", 
+   "truth_names": [
+    "מטבח", 
+    "ח.דיור", 
+    "פ.אוכל"
+   ], 
+   "match": true, 
+   "floor_offset_cm": 0.0, 
+   "doors": [
+    "AR_D_Steel Door_Single : ENTRANCE_REG_110X210(h)", 
+    "AR_D_MMD : MMD REGULAR_80x200(h)", 
+    "AR_D_Wood Door_Single : SIMPLE_80x210(h)", 
+    "AR_D_Wood Door_Single : SIMPLE_RECT(15x30h)_60x210(h)", 
+    "AR_D_Wood Door_Single : SIMPLE_80x210(h)", 
+    "AR_D_Wood Door_Single : SIMPLE_RECT(15x30h)_70x210(h)", 
+    "AR_D_Wood Door_Single : SIMPLE_80x210(h)"
+   ], 
+   "guess_extras": [
+    "מטבח", 
+    "פ.אוכל"
+   ], 
+   "guess": "ח.דיור", 
+   "railing_on_perimeter": true, 
+   "id": 1622244, 
+   "contents": [
+    "Plumbing Fixtures | kitchen - line : kitchen - line", 
+    "Furniture | ספה דו/תלת מושבית : 240L/75W cm", 
+    "Furniture | Haworth_RiveDroite_Armchair : HCCE-RIVD", 
+    "Furniture | Haworth_RiveDroite_Armchair : HCCE-RIVD", 
+    "Furniture | Furniture_Tables_Modus-Furniture_Pearson-Lloyd-Edge-Freestanding-Storage : Default", 
+    "Furniture | Television - Plasma : 50\"", 
+    "Furniture | Table - Dining w Chairs (1)1 : שולחן פ.אוכל 5כ 120", 
+    "Furniture | Chair (2) : Chair (2)", 
+    "Furniture | Chair (2) : Chair (2)", 
+    "Furniture | Chair (2) : Chair (2)", 
+    "Furniture | Chair (2) : Chair (2)", 
+    "Furniture | Chair (2) : Chair (2)", 
+    "Furniture | Table basse - Verre : Table basse - Verre"
+   ], 
+   "floor_types": [
+    "C20_T15 (+0.0)"
+   ], 
+   "truth_texts": [
+    "דירה 57", 
+    "מטבח", 
+    "ח.דיור", 
+    "פ.אוכל"
+   ], 
+   "point_cm": [
+    2116.0, 
+    1735.0
+   ], 
+   "entrance_doors": 1
+  }, 
+  {
+   "wall_types": [
+    "C20", 
+    "ISH- בסיס"
+   ], 
+   "flags": {}, 
+   "area_m2": 55.119999999999997, 
+   "floor_type": "C20_T13 - מרפסת", 
+   "balcony_floor_name": true, 
+   "rule": "balcony floor type (double check: railing on perimeter)", 
+   "truth_names": [
+    "מרפסת"
+   ], 
+   "match": true, 
+   "floor_offset_cm": -2.0, 
+   "doors": [], 
+   "guess_extras": [], 
+   "guess": "מרפסת", 
+   "railing_on_perimeter": true, 
+   "id": 1622280, 
+   "contents": [
+    "Generic Models | חבלים על קיר : Type 1"
+   ], 
+   "floor_types": [
+    "C20_T13 - מרפסת (-2.0)"
+   ], 
+   "truth_texts": [
+    "מרפסת"
+   ], 
+   "point_cm": [
+    3426.0, 
+    1077.0
+   ], 
+   "entrance_doors": 0
+  }, 
+  {
+   "wall_types": [
+    "B10", 
+    "C20"
+   ], 
+   "flags": {
+    "sofa": true, 
+    "kitchen": true, 
+    "dining": true
+   }, 
+   "area_m2": 50.009999999999998, 
+   "floor_type": "C20_T15", 
+   "balcony_floor_name": false, 
+   "rule": "open space: sofa/kitchen/dining", 
+   "truth_names": [
+    "ח.דיור", 
+    "פ.אוכל", 
+    "מטבח"
+   ], 
+   "match": true, 
+   "floor_offset_cm": 0.0, 
+   "doors": [
+    "AR_D_Steel Door_Single : ENTRANCE_REG_110X210(h)", 
+    "AR_D_MMD : MMD REGULAR_80x200(h)", 
+    "AR_D_Wood Door_Single : SIMPLE_80x210(h)", 
+    "AR_D_Wood Door_Single : SIMPLE_80x210(h)", 
+    "AR_D_Wood Door_Single : SIMPLE_RECT(15x30h)_70x210(h)", 
+    "AR_D_Wood Door_Single : SIMPLE_80x210(h)", 
+    "AR_D_Wood Door_Single : SIMPLE_RECT(15x30h)_60x210(h)"
+   ], 
+   "guess_extras": [
+    "מטבח", 
+    "פ.אוכל"
+   ], 
+   "guess": "ח.דיור", 
+   "railing_on_perimeter": false, 
+   "id": 1622226, 
+   "contents": [
+    "Furniture | Table - Dining w Chairs (1)1 : שולחן פ.אוכל 5כ 120", 
+    "Furniture | Chair (2) : Chair (2)", 
+    "Furniture | Chair (2) : Chair (2)", 
+    "Furniture | Chair (2) : Chair (2)", 
+    "Furniture | Chair (2) : Chair (2)", 
+    "Furniture | Chair (2) : Chair (2)", 
+    "Plumbing Fixtures | kitchen - L shape : kitchen - L shape", 
+    "Plumbing Fixtures | kitchen - line : kitchen - line", 
+    "Furniture | ספה דו/תלת מושבית : 240L/75W cm", 
+    "Furniture | Haworth_RiveDroite_Armchair : HCCE-RIVD", 
+    "Furniture | Haworth_RiveDroite_Armchair : HCCE-RIVD", 
+    "Furniture | Furniture_Tables_Modus-Furniture_Pearson-Lloyd-Edge-Freestanding-Storage : Default", 
+    "Furniture | Television - Plasma : 50\"", 
+    "Furniture | Table basse - Verre : Table basse - Verre"
+   ], 
+   "floor_types": [
+    "C20_T15 (+0.0)"
+   ], 
+   "truth_texts": [
+    "ח.דיור", 
+    "פ.אוכל", 
+    "מטבח", 
+    "דירה 55"
+   ], 
+   "point_cm": [
+    3356.0, 
+    2751.0
+   ], 
+   "entrance_doors": 1
+  }, 
+  {
+   "wall_types": [
+    "C20", 
+    "C30", 
+    "ISH- בסיס"
+   ], 
+   "flags": {}, 
+   "area_m2": 49.640000000000001, 
+   "floor_type": "C20_T13 - מרפסת", 
+   "balcony_floor_name": true, 
+   "rule": "balcony floor type (double check: railing on perimeter)", 
+   "truth_names": [
+    "מרפסת"
+   ], 
+   "match": true, 
+   "floor_offset_cm": -2.0, 
+   "doors": [], 
+   "guess_extras": [], 
+   "guess": "מרפסת", 
+   "railing_on_perimeter": true, 
+   "id": 1622274, 
+   "contents": [
+    "Generic Models | חבלים על קיר : Type 1"
+   ], 
+   "floor_types": [
+    "C20_T13 - מרפסת (-2.0)"
+   ], 
+   "truth_texts": [
+    "מרפסת"
+   ], 
+   "point_cm": [
+    1786.0, 
+    3212.0
+   ], 
+   "entrance_doors": 0
+  }, 
+  {
+   "wall_types": [
+    "B10", 
+    "C20"
+   ], 
+   "flags": {
+    "sofa": true, 
+    "kitchen": true, 
+    "dining": true
+   }, 
+   "area_m2": 44.859999999999999, 
+   "floor_type": "C20_T15", 
+   "balcony_floor_name": false, 
+   "rule": "open space: sofa/kitchen/dining", 
+   "truth_names": [
+    "פ.אוכל", 
+    "ח.דיור", 
+    "מטבח"
+   ], 
+   "match": true, 
+   "floor_offset_cm": 0.0, 
+   "doors": [
+    "AR_D_Steel Door_Single : ENTRANCE_REG_110X210(h)", 
+    "AR_D_MMD : MMD REGULAR_80x200(h)", 
+    "AR_D_Wood Door_Single : SIMPLE_RECT(15x30h)_60x210(h)", 
+    "AR_D_Wood Door_Single : SIMPLE_RECT(15x30h)_70x210(h)", 
+    "AR_D_Wood Door_Single : SIMPLE_70x210(h)", 
+    "AR_D_Wood Door_Single : SIMPLE_80x210(h)", 
+    "AR_D_Wood Door_Single : SIMPLE_80x210(h)"
+   ], 
+   "guess_extras": [
+    "מטבח", 
+    "פ.אוכל"
+   ], 
+   "guess": "ח.דיור", 
+   "railing_on_perimeter": true, 
+   "id": 1622236, 
+   "contents": [
+    "Furniture | ספה דו/תלת מושבית : 240L/75W cm", 
+    "Furniture | Haworth_RiveDroite_Armchair : HCCE-RIVD", 
+    "Furniture | Haworth_RiveDroite_Armchair : HCCE-RIVD", 
+    "Furniture | Furniture_Tables_Modus-Furniture_Pearson-Lloyd-Edge-Freestanding-Storage : Default", 
+    "Furniture | Table - Dining w Chairs (1)1 : שולחן פ.אוכל 5כ 120", 
+    "Furniture | Chair (2) : Chair (2)", 
+    "Furniture | Chair (2) : Chair (2)", 
+    "Furniture | Chair (2) : Chair (2)", 
+    "Furniture | Chair (2) : Chair (2)", 
+    "Furniture | Chair (2) : Chair (2)", 
+    "Furniture | Television - Plasma : 50\"", 
+    "Plumbing Fixtures | kitchen - line : kitchen - line", 
+    "Furniture | Table basse - Verre : Table basse - Verre"
+   ], 
+   "floor_types": [
+    "C20_T15 (+0.0)"
+   ], 
+   "truth_texts": [
+    "דירה 56", 
+    "פ.אוכל", 
+    "ח.דיור", 
+    "מטבח"
+   ], 
+   "point_cm": [
+    3051.0, 
+    1549.0
+   ], 
+   "entrance_doors": 1
+  }, 
+  {
+   "wall_types": [
+    "B10", 
+    "C20"
+   ], 
+   "flags": {
+    "sofa": true, 
+    "kitchen": true, 
+    "dining": true
+   }, 
+   "area_m2": 43.090000000000003, 
+   "floor_type": "C20_T15", 
+   "balcony_floor_name": false, 
+   "rule": "open space: sofa/kitchen/dining", 
+   "truth_names": [
+    "מטבח", 
+    "ח.דיור", 
+    "פ.אוכל"
+   ], 
+   "match": true, 
+   "floor_offset_cm": 0.0, 
+   "doors": [
+    "AR_D_Steel Door_Single : ENTRANCE_REG_110X210(h)", 
+    "AR_D_Wood Door_Single : SIMPLE_RECT(15x30h)_70x210(h)", 
+    "AR_D_Wood Door_Single : SIMPLE_80x210(h)", 
+    "AR_D_MMD : MMD REGULAR_80x200(h)"
+   ], 
+   "guess_extras": [
+    "מטבח", 
+    "פ.אוכל"
+   ], 
+   "guess": "ח.דיור", 
+   "railing_on_perimeter": false, 
+   "id": 1622252, 
+   "contents": [
+    "Plumbing Fixtures | kitchen - L shape : kitchen - L shape", 
+    "Plumbing Fixtures | kitchen - line : kitchen - line 90", 
+    "Furniture | ספה דו/תלת מושבית : 240L/75W cm", 
+    "Furniture | Haworth_RiveDroite_Armchair : HCCE-RIVD", 
+    "Furniture | Haworth_RiveDroite_Armchair : HCCE-RIVD", 
+    "Furniture | Furniture_Tables_Modus-Furniture_Pearson-Lloyd-Edge-Freestanding-Storage : Default", 
+    "Furniture | Television - Plasma : 50\"", 
+    "Furniture | Table basse - Verre : Table basse - Verre", 
+    "Furniture | Table - Dining w Chairs (1)1 : שולחן פ.אוכל 5כ 120", 
+    "Furniture | Chair (2) : Chair (2)", 
+    "Furniture | Chair (2) : Chair (2)", 
+    "Furniture | Chair (2) : Chair (2)", 
+    "Furniture | Chair (2) : Chair (2)", 
+    "Furniture | Chair (2) : Chair (2)"
+   ], 
+   "floor_types": [
+    "C20_T15 (+0.0)"
+   ], 
+   "truth_texts": [
+    "מטבח", 
+    "ח.דיור", 
+    "פ.אוכל", 
+    "דירה 54"
+   ], 
+   "point_cm": [
+    1908.0, 
+    2715.0
+   ], 
+   "entrance_doors": 1
+  }, 
+  {
+   "wall_types": [
+    "B10", 
+    "C20"
+   ], 
+   "flags": {}, 
+   "area_m2": 30.430000000000000, 
+   "floor_type": "C20_T15", 
+   "balcony_floor_name": false, 
+   "rule": "2+ entrance doors", 
+   "truth_names": [
+    "לובי קומתי"
+   ], 
+   "match": true, 
+   "floor_offset_cm": 0.0, 
+   "doors": [
+    "AR_D_Steel Door_Single : ENTRANCE_REG_110X210(h)", 
+    "AR_D_Steel Door_Single : ENTRANCE_REG_110X210(h)", 
+    "AR_D_Steel Door_Single : ENTRANCE_REG_110X210(h)", 
+    "AR_D_Steel Door_Single : ENTRANCE_REG_110X210(h)", 
+    "דלת מעלית : 180/180", 
+    "דלת מעלית : 180/180", 
+    "AR_D_Steel Door_Single : REGULAR_RECT(25x65h)_90x210(h)", 
+    "AR_D_Steel Service Door_2 Panels : TECH_100x220(h)", 
+    "AR_D_Steel Service Door_2 Panels : TECH_100x220(h)", 
+    "AR_D_Steel Service Door_2 Panels : TECH_80x220(h)", 
+    "AR_D_Steel Service Door_2 Panels : TECH_100x220(h)", 
+    "AR_D_Steel Service Door_2 Panels : TECH_100x220(h)", 
+    "AR_D_Steel Service Door_2 Panels : TECH_100x220(h)", 
+    "AR_D_Steel Service Door_2 Panels : TECH_100x220(h)", 
+    "AR_D_Steel Service Door_2 Panels : TECH_100x220(h)"
+   ], 
+   "guess_extras": [], 
+   "guess": "לובי קומתי", 
+   "railing_on_perimeter": true, 
+   "id": 1622220, 
+   "contents": [], 
+   "floor_types": [
+    "C20_T15 (+0.0)"
+   ], 
+   "truth_texts": [
+    "לובי קומתי"
+   ], 
+   "point_cm": [
+    2464.0, 
+    2309.0
+   ], 
+   "entrance_doors": 4
+  }, 
+  {
+   "wall_types": [
+    "B10", 
+    "C20"
+   ], 
+   "flags": {
+    "bed": true, 
+    "double_bed": true
+   }, 
+   "area_m2": 13.390000000000001, 
+   "floor_type": "C20_T15", 
+   "balcony_floor_name": false, 
+   "rule": "double bed / en-suite", 
+   "has_ensuite": true, 
+   "truth_names": [
+    "ח.שינה\u000bהורים"
+   ], 
+   "match": true, 
+   "floor_offset_cm": 0.0, 
+   "doors": [
+    "AR_D_Wood Door_Single : SIMPLE_80x210(h)", 
+    "AR_D_Wood Door_Single : SIMPLE_RECT(15x30h)_70x210(h)"
+   ], 
+   "guess_extras": [], 
+   "guess": "ח.שינה הורים", 
+   "railing_on_perimeter": false, 
+   "id": 1622240, 
+   "contents": [
+    "Furniture | ISH - Smart Closet : ISH - Smart Closet", 
+    "Furniture | ISH - Smart Closet : ISH - Smart Closet", 
+    "Furniture | מיטה זוגית + שידות1 : 140/200", 
+    "Furniture | Television - Plasma : 50\""
+   ], 
+   "floor_types": [
+    "C20_T15 (+0.0)"
+   ], 
+   "truth_texts": [
+    "ח.שינה\u000bהורים"
+   ], 
+   "point_cm": [
+    1521.0, 
+    2257.0
+   ], 
+   "entrance_doors": 0
+  }, 
+  {
+   "wall_types": [
+    "C20"
+   ], 
+   "flags": {
+    "stairs": true
+   }, 
+   "area_m2": 12.740000000000000, 
+   "rule": "stairs", 
+   "truth_names": [
+    "ח. מדרגות"
+   ], 
+   "match": true, 
+   "doors": [
+    "AR_D_Steel Door_Single : REGULAR_RECT(25x65h)_90x210(h)"
+   ], 
+   "guess_extras": [], 
+   "guess": "ח. מדרגות", 
+   "railing_on_perimeter": true, 
+   "id": 1622196, 
+   "contents": [], 
+   "floor_types": [], 
+   "truth_texts": [
+    "ח. מדרגות"
+   ], 
+   "point_cm": [
+    2638.0, 
+    2028.0
+   ], 
+   "entrance_doors": 0
+  }, 
+  {
+   "wall_types": [
+    "B10", 
+    "C20"
+   ], 
+   "flags": {
+    "bed": true, 
+    "double_bed": true
+   }, 
+   "area_m2": 12.330000000000000, 
+   "floor_type": "C20_T15", 
+   "balcony_floor_name": false, 
+   "rule": "double bed / en-suite", 
+   "has_ensuite": true, 
+   "truth_names": [
+    "ח.שינה\u000bהורים"
+   ], 
+   "match": true, 
+   "floor_offset_cm": 0.0, 
+   "doors": [
+    "AR_D_Wood Door_Single : SIMPLE_80x210(h)", 
+    "AR_D_Wood Door_Single : SIMPLE_RECT(15x30h)_60x210(h)"
+   ], 
+   "guess_extras": [], 
+   "guess": "ח.שינה הורים", 
+   "railing_on_perimeter": false, 
+   "id": 1622224, 
+   "contents": [
+    "Furniture | ISH - Smart Closet : ISH - Smart Closet", 
+    "Furniture | מיטה זוגית + שידות1 : 140/200"
+   ], 
+   "floor_types": [
+    "C20_T15 (+0.0)"
+   ], 
+   "truth_texts": [
+    "ח.שינה\u000bהורים"
+   ], 
+   "point_cm": [
+    3352.0, 
+    2299.0
+   ], 
+   "entrance_doors": 0
+  }, 
+  {
+   "wall_types": [
+    "B10", 
+    "C20"
+   ], 
+   "flags": {
+    "bed": true, 
+    "double_bed": true
+   }, 
+   "area_m2": 12.220000000000001, 
+   "floor_type": "C20_T15", 
+   "balcony_floor_name": false, 
+   "rule": "double bed / en-suite", 
+   "has_ensuite": true, 
+   "truth_names": [
+    "ח.שינה\u000bהורים"
+   ], 
+   "match": true, 
+   "floor_offset_cm": 0.0, 
+   "doors": [
+    "AR_D_Wood Door_Single : SIMPLE_80x210(h)", 
+    "AR_D_Wood Door_Single : SIMPLE_RECT(15x30h)_70x210(h)"
+   ], 
+   "guess_extras": [], 
+   "guess": "ח.שינה הורים", 
+   "railing_on_perimeter": false, 
+   "id": 1622248, 
+   "contents": [
+    "Furniture | ISH - Smart Closet : ISH - Smart Closet", 
+    "Furniture | מיטה זוגית + שידות1 : 140/200"
+   ], 
+   "floor_types": [
+    "C20_T15 (+0.0)"
+   ], 
+   "truth_texts": [
+    "ח.שינה\u000bהורים"
+   ], 
+   "point_cm": [
+    1410.0, 
+    2835.0
+   ], 
+   "entrance_doors": 0
+  }, 
+  {
+   "wall_types": [
+    "B10", 
+    "C20"
+   ], 
+   "flags": {
+    "bed": true, 
+    "dining": true
+   }, 
+   "area_m2": 11.910000000000000, 
+   "floor_type": "C20_T15", 
+   "balcony_floor_name": false, 
+   "rule": "bed", 
+   "truth_names": [
+    "ח.שינה"
+   ], 
+   "match": true, 
+   "floor_offset_cm": 0.0, 
+   "doors": [
+    "AR_D_Wood Door_Single : SIMPLE_80x210(h)"
+   ], 
+   "guess_extras": [], 
+   "guess": "ח.שינה", 
+   "railing_on_perimeter": false, 
+   "id": 1622230, 
+   "contents": [
+    "Furniture | מיטה : יחיד 120/190", 
+    "Furniture | ISH - Smart Closet : ISH - Smart Closet", 
+    "Furniture | Modern_Computer_Desk_11677 : Modern_Computer_Desk_11677", 
+    "Furniture | Chair-Executive : Chair-Executive"
+   ], 
+   "floor_types": [
+    "C20_T15 (+0.0)"
+   ], 
+   "truth_texts": [
+    "ח.שינה"
+   ], 
+   "point_cm": [
+    3413.0, 
+    1979.0
+   ], 
+   "entrance_doors": 0
+  }, 
+  {
+   "wall_types": [
+    "B10", 
+    "C20"
+   ], 
+   "flags": {
+    "bed": true, 
+    "dining": true
+   }, 
+   "area_m2": 10.330000000000000, 
+   "floor_type": "C20_T15", 
+   "balcony_floor_name": false, 
+   "rule": "double bed / en-suite", 
+   "has_ensuite": true, 
+   "truth_names": [
+    "ח.שינה"
+   ], 
+   "match": true, 
+   "floor_offset_cm": 0.0, 
+   "doors": [
+    "AR_D_Wood Door_Single : SIMPLE_RECT(15x30h)_70x210(h)", 
+    "AR_D_Wood Door_Single : SIMPLE_80x210(h)"
+   ], 
+   "guess_extras": [], 
+   "guess": "ח.שינה הורים", 
+   "railing_on_perimeter": false, 
+   "id": 1622234, 
+   "contents": [
+    "Furniture | ISH - Smart Closet : ISH - Smart Closet", 
+    "Furniture | מיטה : יחיד 120/190", 
+    "Furniture | Modern_Computer_Desk_11677 : Modern_Computer_Desk_11677", 
+    "Furniture | Chair-Executive : Chair-Executive"
+   ], 
+   "floor_types": [
+    "C20_T15 (+0.0)"
+   ], 
+   "truth_texts": [
+    "ח.שינה"
+   ], 
+   "point_cm": [
+    4096.0, 
+    1642.0
+   ], 
+   "entrance_doors": 0
+  }, 
+  {
+   "wall_types": [
+    "B10", 
+    "C20"
+   ], 
+   "flags": {
+    "bed": true, 
+    "dining": true
+   }, 
+   "area_m2": 10.0, 
+   "floor_type": "C20_T15", 
+   "balcony_floor_name": false, 
+   "rule": "bed", 
+   "truth_names": [
+    "ח.שינה"
+   ], 
+   "match": true, 
+   "floor_offset_cm": 0.0, 
+   "doors": [
+    "AR_D_Wood Door_Single : SIMPLE_80x210(h)"
+   ], 
+   "guess_extras": [], 
+   "guess": "ח.שינה", 
+   "railing_on_perimeter": false, 
+   "id": 1622242, 
+   "contents": [
+    "Furniture | ISH - Smart Closet : ISH - Smart Closet", 
+    "Furniture | מיטה : יחיד 120/190", 
+    "Furniture | Modern_Computer_Desk_11677 : Modern_Computer_Desk_11677", 
+    "Furniture | Chair-Executive : Chair-Executive"
+   ], 
+   "floor_types": [
+    "C20_T15 (+0.0)"
+   ], 
+   "truth_texts": [
+    "ח.שינה"
+   ], 
+   "point_cm": [
+    1746.0, 
+    1822.0
+   ], 
+   "entrance_doors": 0
+  }, 
+  {
+   "wall_types": [
+    "C20", 
+    "C30"
+   ], 
+   "mamad_reason": "mamad floor type (double check ok: offset +2.0cm)", 
+   "flags": {
+    "bed": true, 
+    "dining": true
+   }, 
+   "area_m2": 9.6300000000000008, 
+   "floor_type": "C20_T17 ממ\"ד", 
+   "balcony_floor_name": false, 
+   "rule": "mamad floor type (double check ok: offset +2.0cm)", 
+   "truth_names": [
+    "ח.שינה/ממ\"ד"
+   ], 
+   "match": true, 
+   "floor_offset_cm": 2.0, 
+   "mamad": true, 
+   "doors": [
+    "AR_D_MMD : MMD REGULAR_80x200(h)"
+   ], 
+   "guess_extras": [], 
+   "guess": "ח.שינה/ממ\"ד", 
+   "railing_on_perimeter": false, 
+   "id": 1622214, 
+   "contents": [
+    "Furniture | ISH - Smart Closet : ISH - Smart Closet", 
+    "Furniture | ISH - Smart Closet : ISH - Smart Closet", 
+    "Furniture | מיטה : יחיד 90/190", 
+    "Furniture | Television - Plasma : 50\"", 
+    "Furniture | Modern_Computer_Desk_11677 : Modern_Computer_Desk_11677", 
+    "Furniture | Chair-Executive : Chair-Executive"
+   ], 
+   "floor_types": [
+    "C20_T17 ממ\"ד (+2.0)"
+   ], 
+   "truth_texts": [
+    "ח.שינה/ממ\"ד"
+   ], 
+   "point_cm": [
+    1711.0, 
+    1494.0
+   ], 
+   "entrance_doors": 0
+  }, 
+  {
+   "wall_types": [
+    "B10", 
+    "C20"
+   ], 
+   "flags": {
+    "bed": true, 
+    "double_bed": true
+   }, 
+   "area_m2": 9.6300000000000008, 
+   "floor_type": "C20_T15", 
+   "balcony_floor_name": false, 
+   "rule": "double bed / en-suite", 
+   "has_ensuite": true, 
+   "truth_names": [
+    "ח.שינה\u000bהורים"
+   ], 
+   "match": true, 
+   "floor_offset_cm": 0.0, 
+   "doors": [
+    "AR_D_Wood Door_Single : SIMPLE_RECT(15x30h)_70x210(h)", 
+    "AR_D_Wood Door_Single : SIMPLE_70x210(h)"
+   ], 
+   "guess_extras": [], 
+   "guess": "ח.שינה הורים", 
+   "railing_on_perimeter": false, 
+   "id": 1622232, 
+   "contents": [
+    "Furniture | ISH - Smart Closet : ISH - Smart Closet", 
+    "Furniture | מיטה זוגית + שידות1 : 140/200"
+   ], 
+   "floor_types": [
+    "C20_T15 (+0.0)"
+   ], 
+   "truth_texts": [
+    "ח.שינה\u000bהורים"
+   ], 
+   "point_cm": [
+    3390.0, 
+    1441.0
+   ], 
+   "entrance_doors": 0
+  }, 
+  {
+   "wall_types": [
+    "C20", 
+    "C30"
+   ], 
+   "mamad_reason": "mamad floor type (double check ok: offset +2.0cm)", 
+   "flags": {
+    "bed": true, 
+    "dining": true
+   }, 
+   "area_m2": 9.5099999999999998, 
+   "floor_type": "C20_T17 ממ\"ד", 
+   "balcony_floor_name": false, 
+   "rule": "mamad floor type (double check ok: offset +2.0cm)", 
+   "truth_names": [
+    "ח.שינה/ממ\"ד"
+   ], 
+   "match": true, 
+   "floor_offset_cm": 2.0, 
+   "mamad": true, 
+   "doors": [
+    "AR_D_MMD : MMD REGULAR_80x200(h)"
+   ], 
+   "guess_extras": [], 
+   "guess": "ח.שינה/ממ\"ד", 
+   "railing_on_perimeter": false, 
+   "id": 1622212, 
+   "contents": [
+    "Furniture | ISH - Smart Closet : ISH - Smart Closet", 
+    "Furniture | מיטה : יחיד 90/190", 
+    "Furniture | Modern_Computer_Desk_11677 : Modern_Computer_Desk_11677", 
+    "Furniture | Chair-Executive : Chair-Executive"
+   ], 
+   "floor_types": [
+    "C20_T17 ממ\"ד (+2.0)"
+   ], 
+   "truth_texts": [
+    "ח.שינה/ממ\"ד"
+   ], 
+   "point_cm": [
+    2490.0, 
+    2837.0
+   ], 
+   "entrance_doors": 0
+  }, 
+  {
+   "wall_types": [
+    "B10", 
+    "C20"
+   ], 
+   "flags": {
+    "bed": true, 
+    "dining": true
+   }, 
+   "area_m2": 9.2899999999999991, 
+   "floor_type": "C20_T15", 
+   "balcony_floor_name": false, 
+   "rule": "bed", 
+   "truth_names": [
+    "ח.רחצה\u000bכללי"
+   ], 
+   "match": false, 
+   "floor_offset_cm": 0.0, 
+   "doors": [
+    "AR_D_Wood Door_Single : SIMPLE_80x210(h)"
+   ], 
+   "guess_extras": [], 
+   "guess": "ח.שינה", 
+   "railing_on_perimeter": false, 
+   "id": 1622222, 
+   "contents": [
+    "Furniture | ISH - Smart Closet : ISH - Smart Closet", 
+    "Furniture | מיטה : יחיד 120/190", 
+    "Furniture | Modern_Computer_Desk_11677 : Modern_Computer_Desk_11677", 
+    "Furniture | Chair-Executive : Chair-Executive"
+   ], 
+   "floor_types": [
+    "C20_T15 (+0.0)"
+   ], 
+   "truth_texts": [
+    "ח.רחצה\u000bכללי"
+   ], 
+   "point_cm": [
+    1434.0, 
+    1951.0
+   ], 
+   "entrance_doors": 0
+  }, 
+  {
+   "wall_types": [
+    "C20", 
+    "C30"
+   ], 
+   "mamad_reason": "mamad floor type (double check ok: offset +2.0cm)", 
+   "flags": {
+    "bed": true, 
+    "dining": true
+   }, 
+   "area_m2": 9.2799999999999994, 
+   "floor_type": "C20_T17 ממ\"ד", 
+   "balcony_floor_name": false, 
+   "rule": "mamad floor type (double check ok: offset +2.0cm)", 
+   "truth_names": [
+    "ח.שינה/ממ\"ד"
+   ], 
+   "match": true, 
+   "floor_offset_cm": 2.0, 
+   "mamad": true, 
+   "doors": [
+    "AR_D_MMD : MMD REGULAR_80x200(h)"
+   ], 
+   "guess_extras": [], 
+   "guess": "ח.שינה/ממ\"ד", 
+   "railing_on_perimeter": false, 
+   "id": 1622218, 
+   "contents": [
+    "Furniture | ISH - Smart Closet : ISH - Smart Closet", 
+    "Furniture | מיטה : יחיד 90/190", 
+    "Furniture | Modern_Computer_Desk_11677 : Modern_Computer_Desk_11677", 
+    "Furniture | Chair-Executive : Chair-Executive"
+   ], 
+   "floor_types": [
+    "C20_T17 ממ\"ד (+2.0)"
+   ], 
+   "truth_texts": [
+    "ח.שינה/ממ\"ד"
+   ], 
+   "point_cm": [
+    3744.0, 
+    2423.0
+   ], 
+   "entrance_doors": 0
+  }, 
+  {
+   "wall_types": [
+    "C20", 
+    "C30"
+   ], 
+   "mamad_reason": "mamad floor type (double check ok: offset +2.0cm)", 
+   "flags": {
+    "bed": true, 
+    "dining": true
+   }, 
+   "area_m2": 9.0500000000000007, 
+   "floor_type": "C20_T17 ממ\"ד", 
+   "balcony_floor_name": false, 
+   "rule": "mamad floor type (double check ok: offset +2.0cm)", 
+   "truth_names": [
+    "ח.שינה/ממ\"ד"
+   ], 
+   "match": true, 
+   "floor_offset_cm": 2.0, 
+   "mamad": true, 
+   "doors": [
+    "AR_D_MMD : MMD REGULAR_80x200(h)"
+   ], 
+   "guess_extras": [], 
+   "guess": "ח.שינה/ממ\"ד", 
+   "railing_on_perimeter": false, 
+   "id": 1622216, 
+   "contents": [
+    "Furniture | מיטה : יחיד 90/190", 
+    "Furniture | ISH - Smart Closet : ISH - Smart Closet", 
+    "Furniture | Modern_Computer_Desk_11677 : Modern_Computer_Desk_11677", 
+    "Furniture | Chair-Executive : Chair-Executive"
+   ], 
+   "floor_types": [
+    "C20_T17 ממ\"ד (+2.0)"
+   ], 
+   "truth_texts": [
+    "ח.שינה/ממ\"ד"
+   ], 
+   "point_cm": [
+    3791.0, 
+    1780.0
+   ], 
+   "entrance_doors": 0
+  }, 
+  {
+   "wall_types": [
+    "B10", 
+    "C20"
+   ], 
+   "flags": {
+    "bed": true, 
+    "dining": true
+   }, 
+   "area_m2": 9.0, 
+   "floor_type": "C20_T15", 
+   "balcony_floor_name": false, 
+   "rule": "bed", 
+   "truth_names": [
+    "ח.שינה"
+   ], 
+   "match": true, 
+   "floor_offset_cm": 0.0, 
+   "doors": [
+    "AR_D_Wood Door_Single : SIMPLE_80x210(h)"
+   ], 
+   "guess_extras": [], 
+   "guess": "ח.שינה", 
+   "railing_on_perimeter": false, 
+   "id": 1622238, 
+   "contents": [
+    "Furniture | ISH - Smart Closet : ISH - Smart Closet", 
+    "Furniture | מיטה : יחיד 90/190", 
+    "Furniture | Modern_Computer_Desk_11677 : Modern_Computer_Desk_11677", 
+    "Furniture | Chair-Executive : Chair-Executive"
+   ], 
+   "floor_types": [
+    "C20_T15 (+0.0)"
+   ], 
+   "truth_texts": [
+    "ח.שינה"
+   ], 
+   "point_cm": [
+    4091.0, 
+    2422.0
+   ], 
+   "entrance_doors": 0
+  }, 
+  {
+   "wall_types": [
+    "B10", 
+    "C20"
+   ], 
+   "flags": {
+    "bed": true, 
+    "dining": true
+   }, 
+   "area_m2": 8.9800000000000004, 
+   "floor_type": "C20_T15", 
+   "balcony_floor_name": false, 
+   "rule": "bed", 
+   "truth_names": [
+    "ח.שינה"
+   ], 
+   "match": true, 
+   "floor_offset_cm": 0.0, 
+   "doors": [
+    "AR_D_Wood Door_Single : SIMPLE_80x210(h)"
+   ], 
+   "guess_extras": [], 
+   "guess": "ח.שינה", 
+   "railing_on_perimeter": false, 
+   "id": 1622228, 
+   "contents": [
+    "Furniture | ISH - Smart Closet : ISH - Smart Closet", 
+    "Furniture | מיטה : יחיד 120/190", 
+    "Furniture | Modern_Computer_Desk_11677 : Modern_Computer_Desk_11677", 
+    "Furniture | Chair-Executive : Chair-Executive"
+   ], 
+   "floor_types": [
+    "C20_T15 (+0.0)"
+   ], 
+   "truth_texts": [
+    "ח.שינה"
+   ], 
+   "point_cm": [
+    3924.0, 
+    2860.0
+   ], 
+   "entrance_doors": 0
+  }, 
+  {
+   "wall_types": [
+    "B10", 
+    "B7", 
+    "C20"
+   ], 
+   "flags": {
+    "washer": true, 
+    "double_bed": true, 
+    "bath": true, 
+    "toilet": true, 
+    "basin": true
+   }, 
+   "area_m2": 8.6999999999999993, 
+   "floor_type": "C20_T15", 
+   "balcony_floor_name": false, 
+   "rule": "bath/shower", 
+   "truth_names": [
+    "ח.רחצה\u000bכללי"
+   ], 
+   "match": true, 
+   "floor_offset_cm": 0.0, 
+   "doors": [
+    "AR_D_Wood Door_Single : SIMPLE_RECT(15x30h)_70x210(h)"
+   ], 
+   "guess_extras": [], 
+   "guess": "ח.רחצה כללי", 
+   "railing_on_perimeter": false, 
+   "id": 1622262, 
+   "contents": [
+    "Plumbing Fixtures | M_Bath Tub : 160/70", 
+    "Plumbing Fixtures | WashingMachine : WashingMachine 2", 
+    "Plumbing Fixtures | WashingMachine : WashingMachine 2", 
+    "Plumbing Fixtures | כיור : 50/40", 
+    "Plumbing Fixtures | If_toilet_wall_hung_6505 : Wall_Hung_WC-Valverfa_2893[1]"
+   ], 
+   "floor_types": [
+    "C20_T15 (+0.0)"
+   ], 
+   "truth_texts": [
+    "ח.רחצה\u000bכללי"
+   ], 
+   "point_cm": [
+    4018.0, 
+    1360.0
+   ], 
+   "entrance_doors": 0
+  }, 
+  {
+   "wall_types": [
+    "B10", 
+    "B7", 
+    "C20"
+   ], 
+   "flags": {
+    "washer": true, 
+    "double_bed": true, 
+    "bath": true, 
+    "toilet": true, 
+    "basin": true
+   }, 
+   "area_m2": 7.1500000000000004, 
+   "floor_type": "C20_T15", 
+   "balcony_floor_name": false, 
+   "rule": "bath/shower", 
+   "truth_names": [
+    "ח.רחצה\u000bכללי"
+   ], 
+   "match": true, 
+   "floor_offset_cm": 0.0, 
+   "doors": [
+    "AR_D_Wood Door_Single : SIMPLE_RECT(15x30h)_70x210(h)"
+   ], 
+   "guess_extras": [], 
+   "guess": "ח.רחצה כללי", 
+   "railing_on_perimeter": false, 
+   "id": 1622268, 
+   "contents": [
+    "Plumbing Fixtures | M_Bath Tub : 160/70", 
+    "Plumbing Fixtures | WashingMachine : WashingMachine 2", 
+    "Plumbing Fixtures | If_toilet_wall_hung_6505 : Wall_Hung_WC-Valverfa_2893[1]", 
+    "Plumbing Fixtures | כיור : 50/40"
+   ], 
+   "floor_types": [
+    "C20_T15 (+0.0)"
+   ], 
+   "truth_texts": [
+    "ח.רחצה\u000bכללי"
+   ], 
+   "point_cm": [
+    4164.0, 
+    2800.0
+   ], 
+   "entrance_doors": 0
+  }, 
+  {
+   "wall_types": [
+    "C20"
+   ], 
+   "flags": {}, 
+   "area_m2": 6.8399999999999999, 
+   "elevator_inner_side": true, 
+   "rule": "inner side of elevator door", 
+   "truth_names": [
+    "מעלית"
+   ], 
+   "match": true, 
+   "doors": [
+    "דלת מעלית : 180/180", 
+    "דלת מעלית : 180/180"
+   ], 
+   "guess_extras": [], 
+   "guess": "מעלית", 
+   "railing_on_perimeter": false, 
+   "id": 1622198, 
+   "contents": [], 
+   "floor_types": [], 
+   "truth_texts": [
+    "מעלית"
+   ], 
+   "point_cm": [
+    2541.0, 
+    2505.0
+   ], 
+   "entrance_doors": 0
+  }, 
+  {
+   "wall_types": [
+    "B10", 
+    "B5", 
+    "C20"
+   ], 
+   "flags": {
+    "washer": true, 
+    "double_bed": true, 
+    "bath": true, 
+    "toilet": true, 
+    "basin": true
+   }, 
+   "area_m2": 5.5300000000000002, 
+   "floor_type": "C20_T15", 
+   "balcony_floor_name": false, 
+   "rule": "bath/shower", 
+   "truth_names": [
+    "ח.רחצה\u000bכללי"
+   ], 
+   "match": true, 
+   "floor_offset_cm": 0.0, 
+   "doors": [
+    "AR_D_Wood Door_Single : SIMPLE_RECT(15x30h)_70x210(h)"
+   ], 
+   "guess_extras": [], 
+   "guess": "ח.רחצה כללי", 
+   "railing_on_perimeter": false, 
+   "id": 1622246, 
+   "contents": [
+    "Plumbing Fixtures | כיור : 50/40", 
+    "Plumbing Fixtures | WashingMachine : WashingMachine 2", 
+    "Plumbing Fixtures | M_Bath Tub : 160/70", 
+    "Plumbing Fixtures | If_toilet_wall_hung_6505 : Wall_Hung_WC-Valverfa_2893[1]"
+   ], 
+   "floor_types": [
+    "C20_T15 (+0.0)"
+   ], 
+   "truth_texts": [
+    "ח.רחצה\u000bכללי"
+   ], 
+   "point_cm": [
+    1428.0, 
+    2527.0
+   ], 
+   "entrance_doors": 0
+  }, 
+  {
+   "wall_types": [
+    "B10", 
+    "C20"
+   ], 
+   "flags": {
+    "washer": true, 
+    "double_bed": true, 
+    "bath": true, 
+    "toilet": true, 
+    "basin": true
+   }, 
+   "area_m2": 5.5099999999999998, 
+   "floor_type": "C20_T15", 
+   "balcony_floor_name": false, 
+   "rule": "bath/shower", 
+   "truth_names": [
+    "ח.רחצה\u000bכללי"
+   ], 
+   "match": true, 
+   "floor_offset_cm": 0.0, 
+   "doors": [
+    "AR_D_Wood Door_Single : SIMPLE_RECT(15x30h)_70x210(h)"
+   ], 
+   "guess_extras": [], 
+   "guess": "ח.רחצה כללי", 
+   "railing_on_perimeter": false, 
+   "id": 1622258, 
+   "contents": [
+    "Plumbing Fixtures | M_Bath Tub : 160/70", 
+    "Plumbing Fixtures | WashingMachine : WashingMachine 2", 
+    "Plumbing Fixtures | כיור : 50/40", 
+    "Plumbing Fixtures | If_toilet_wall_hung_6505 : Wall_Hung_WC-Valverfa_2893[1]"
+   ], 
+   "floor_types": [
+    "C20_T15 (+0.0)"
+   ], 
+   "truth_texts": [
+    "ח.רחצה\u000bכללי"
+   ], 
+   "point_cm": [
+    2021.0, 
+    2257.0
+   ], 
+   "entrance_doors": 0
+  }, 
+  {
+   "wall_types": [
+    "B10", 
+    "C20"
+   ], 
+   "flags": {
+    "toilet": true, 
+    "shower": true, 
+    "basin": true
+   }, 
+   "area_m2": 5.0700000000000003, 
+   "floor_type": "C20_T15", 
+   "balcony_floor_name": false, 
+   "rule": "bath/shower + door to bedroom", 
+   "truth_names": [
+    "ח.רחצה\u000bהורים"
+   ], 
+   "match": true, 
+   "floor_offset_cm": 0.0, 
+   "doors": [
+    "AR_D_Wood Door_Single : SIMPLE_RECT(15x30h)_70x210(h)"
+   ], 
+   "guess_extras": [], 
+   "guess": "ח.רחצה הורים", 
+   "railing_on_perimeter": false, 
+   "id": 1622250, 
+   "opens_to_bedroom": true, 
+   "contents": [
+    "Plumbing Fixtures | smart shower : smart shower", 
+    "Plumbing Fixtures | כיור : 50/40", 
+    "Plumbing Fixtures | כיור : 50/40", 
+    "Plumbing Fixtures | If_toilet_wall_hung_6505 : Wall_Hung_WC-Valverfa_2893[1]"
+   ], 
+   "floor_types": [
+    "C20_T15 (+0.0)"
+   ], 
+   "truth_texts": [
+    "ח.רחצה\u000bהורים"
+   ], 
+   "point_cm": [
+    1153.0, 
+    2825.0
+   ], 
+   "entrance_doors": 0
+  }, 
+  {
+   "wall_types": [
+    "B10", 
+    "C20"
+   ], 
+   "flags": {
+    "toilet": true, 
+    "shower": true, 
+    "basin": true
+   }, 
+   "area_m2": 4.3700000000000001, 
+   "floor_type": "C20_T15", 
+   "balcony_floor_name": false, 
+   "rule": "bath/shower + door to bedroom", 
+   "truth_names": [
+    "ח.רחצה\u000bהורים"
+   ], 
+   "match": true, 
+   "floor_offset_cm": 0.0, 
+   "doors": [
+    "AR_D_Wood Door_Single : SIMPLE_RECT(15x30h)_70x210(h)"
+   ], 
+   "guess_extras": [], 
+   "guess": "ח.רחצה הורים", 
+   "railing_on_perimeter": false, 
+   "id": 1622264, 
+   "opens_to_bedroom": true, 
+   "contents": [
+    "Plumbing Fixtures | If_toilet_wall_hung_6505 : Wall_Hung_WC-Valverfa_2893[1]", 
+    "Plumbing Fixtures | כיור : 50/40", 
+    "Plumbing Fixtures | smart shower : smart shower", 
+    "Plumbing Fixtures | כיור : 50/40"
+   ], 
+   "floor_types": [
+    "C20_T15 (+0.0)"
+   ], 
+   "truth_texts": [
+    "ח.רחצה\u000bהורים"
+   ], 
+   "point_cm": [
+    3655.0, 
+    1360.0
+   ], 
+   "entrance_doors": 0
+  }, 
+  {
+   "wall_types": [
+    "B10", 
+    "C20"
+   ], 
+   "flags": {
+    "toilet": true, 
+    "shower": true, 
+    "basin": true
+   }, 
+   "area_m2": 3.6600000000000001, 
+   "floor_type": "C20_T15", 
+   "balcony_floor_name": false, 
+   "rule": "bath/shower + door to bedroom", 
+   "truth_names": [
+    "ח.רחצה"
+   ], 
+   "match": true, 
+   "floor_offset_cm": 0.0, 
+   "doors": [
+    "AR_D_Wood Door_Single : SIMPLE_RECT(15x30h)_70x210(h)"
+   ], 
+   "guess_extras": [], 
+   "guess": "ח.רחצה הורים", 
+   "railing_on_perimeter": false, 
+   "id": 1622266, 
+   "opens_to_bedroom": true, 
+   "contents": [
+    "Plumbing Fixtures | If_toilet_wall_hung_6505 : Wall_Hung_WC-Valverfa_2893[1]", 
+    "Plumbing Fixtures | smart shower : smart shower", 
+    "Plumbing Fixtures | כיור : 50/40"
+   ], 
+   "floor_types": [
+    "C20_T15 (+0.0)"
+   ], 
+   "truth_texts": [
+    "ח.רחצה"
+   ], 
+   "point_cm": [
+    4086.0, 
+    1892.0
+   ], 
+   "entrance_doors": 0
+  }, 
+  {
+   "wall_types": [
+    "B10", 
+    "C20"
+   ], 
+   "flags": {
+    "toilet": true, 
+    "shower": true, 
+    "basin": true
+   }, 
+   "area_m2": 3.3900000000000001, 
+   "floor_type": "C20_T15", 
+   "balcony_floor_name": false, 
+   "rule": "bath/shower + door to bedroom", 
+   "truth_names": [
+    "ח.רחצה\u000bהורים"
+   ], 
+   "match": true, 
+   "floor_offset_cm": 0.0, 
+   "doors": [
+    "AR_D_Wood Door_Single : SIMPLE_RECT(15x30h)_70x210(h)"
+   ], 
+   "guess_extras": [], 
+   "guess": "ח.רחצה הורים", 
+   "railing_on_perimeter": false, 
+   "id": 1622256, 
+   "opens_to_bedroom": true, 
+   "contents": [
+    "Plumbing Fixtures | smart shower : smart shower", 
+    "Plumbing Fixtures | If_toilet_wall_hung_6505 : Wall_Hung_WC-Valverfa_2893[1]", 
+    "Plumbing Fixtures | כיור : 50/40"
+   ], 
+   "floor_types": [
+    "C20_T15 (+0.0)"
+   ], 
+   "truth_texts": [
+    "ח.רחצה\u000bהורים"
+   ], 
+   "point_cm": [
+    1840.0, 
+    2247.0
+   ], 
+   "entrance_doors": 0
+  }, 
+  {
+   "wall_types": [
+    "B10", 
+    "C20"
+   ], 
+   "flags": {
+    "toilet": true, 
+    "shower": true, 
+    "basin": true
+   }, 
+   "area_m2": 2.7900000000000000, 
+   "floor_type": "C20_T15", 
+   "balcony_floor_name": false, 
+   "rule": "bath/shower + door to bedroom", 
+   "truth_names": [
+    "ח.רחצה\u000bהורים"
+   ], 
+   "match": true, 
+   "floor_offset_cm": 0.0, 
+   "doors": [
+    "AR_D_Wood Door_Single : SIMPLE_RECT(15x30h)_60x210(h)"
+   ], 
+   "guess_extras": [], 
+   "guess": "ח.רחצה הורים", 
+   "railing_on_perimeter": false, 
+   "id": 1622270, 
+   "opens_to_bedroom": true, 
+   "contents": [
+    "Plumbing Fixtures | smart shower : smart shower", 
+    "Plumbing Fixtures | If_toilet_wall_hung_6505 : Wall_Hung_WC-Valverfa_2893[1]", 
+    "Plumbing Fixtures | כיור : 50/40"
+   ], 
+   "floor_types": [
+    "C20_T15 (+0.0)"
+   ], 
+   "truth_texts": [
+    "ח.רחצה\u000bהורים"
+   ], 
+   "point_cm": [
+    3237.0, 
+    2520.0
+   ], 
+   "entrance_doors": 0
+  }, 
+  {
+   "wall_types": [
+    "B10", 
+    "C20"
+   ], 
+   "flags": {}, 
+   "area_m2": 1.8100000000000001, 
+   "rule": "small & empty", 
+   "truth_names": [
+    "פיר"
+   ], 
+   "match": true, 
+   "doors": [
+    "AR_D_Steel Service Door_2 Panels : TECH_100x220(h)", 
+    "AR_D_Steel Service Door_2 Panels : TECH_100x220(h)", 
+    "AR_D_Steel Service Door_2 Panels : TECH_100x220(h)"
+   ], 
+   "guess_extras": [], 
+   "guess": "פיר", 
+   "railing_on_perimeter": true, 
+   "id": 1622204, 
+   "contents": [], 
+   "floor_types": [], 
+   "truth_texts": [
+    "פיר"
+   ], 
+   "point_cm": [
+    2861.0, 
+    2031.0
+   ], 
+   "entrance_doors": 0
+  }, 
+  {
+   "wall_types": [
+    "B10", 
+    "C20"
+   ], 
+   "flags": {
+    "toilet": true, 
+    "basin": true
+   }, 
+   "area_m2": 1.6000000000000001, 
+   "floor_type": "C20_T15", 
+   "balcony_floor_name": false, 
+   "rule": "toilet without bath/shower", 
+   "truth_names": [
+    "ש.אורחים"
+   ], 
+   "match": true, 
+   "floor_offset_cm": 0.0, 
+   "doors": [
+    "AR_D_Wood Door_Single : SIMPLE_RECT(15x30h)_60x210(h)"
+   ], 
+   "guess_extras": [], 
+   "guess": "ש.אורחים", 
+   "railing_on_perimeter": false, 
+   "id": 1622260, 
+   "contents": [
+    "Plumbing Fixtures | If_toilet_wall_hung_6505 : Wall_Hung_WC-Valverfa_2893[1]", 
+    "Plumbing Fixtures | כיור1 : 40/30"
+   ], 
+   "floor_types": [
+    "C20_T15 (+0.0)"
+   ], 
+   "truth_texts": [
+    "ש.אורחים"
+   ], 
+   "point_cm": [
+    3338.0, 
+    1782.0
+   ], 
+   "entrance_doors": 0
+  }, 
+  {
+   "wall_types": [
+    "B10", 
+    "C20"
+   ], 
+   "flags": {
+    "toilet": true, 
+    "basin": true
+   }, 
+   "area_m2": 1.5, 
+   "floor_type": "C20_T15", 
+   "balcony_floor_name": false, 
+   "rule": "toilet without bath/shower", 
+   "truth_names": [
+    "ש.אורחים"
+   ], 
+   "match": true, 
+   "floor_offset_cm": 0.0, 
+   "doors": [
+    "AR_D_Wood Door_Single : SIMPLE_RECT(15x30h)_60x210(h)"
+   ], 
+   "guess_extras": [], 
+   "guess": "ש.אורחים", 
+   "railing_on_perimeter": false, 
+   "id": 1622272, 
+   "contents": [
+    "Plumbing Fixtures | כיור1 : 40/30", 
+    "Plumbing Fixtures | If_toilet_wall_hung_6505 : Wall_Hung_WC-Valverfa_2893[1]"
+   ], 
+   "floor_types": [
+    "C20_T15 (+0.0)"
+   ], 
+   "truth_texts": [
+    "ש.אורחים"
+   ], 
+   "point_cm": [
+    3387.0, 
+    2527.0
+   ], 
+   "entrance_doors": 0
+  }, 
+  {
+   "wall_types": [
+    "B10", 
+    "C20"
+   ], 
+   "flags": {}, 
+   "area_m2": 1.4199999999999999, 
+   "rule": "small & empty", 
+   "truth_names": [
+    "פיר"
+   ], 
+   "match": true, 
+   "doors": [
+    "AR_D_Steel Service Door_2 Panels : TECH_100x220(h)", 
+    "AR_D_Steel Service Door_2 Panels : TECH_100x220(h)", 
+    "AR_D_Steel Service Door_2 Panels : TECH_80x220(h)"
+   ], 
+   "guess_extras": [], 
+   "guess": "פיר", 
+   "railing_on_perimeter": false, 
+   "id": 1622200, 
+   "contents": [], 
+   "floor_types": [], 
+   "truth_texts": [
+    "פיר"
+   ], 
+   "point_cm": [
+    3109.0, 
+    2262.0
+   ], 
+   "entrance_doors": 0
+  }, 
+  {
+   "wall_types": [
+    "B10", 
+    "C20"
+   ], 
+   "flags": {
+    "toilet": true, 
+    "basin": true
+   }, 
+   "area_m2": 1.4099999999999999, 
+   "floor_type": "C20_T15", 
+   "balcony_floor_name": false, 
+   "rule": "toilet without bath/shower", 
+   "truth_names": [
+    "ש.אורחים"
+   ], 
+   "match": true, 
+   "floor_offset_cm": 0.0, 
+   "doors": [
+    "AR_D_Wood Door_Single : SIMPLE_RECT(15x30h)_60x210(h)"
+   ], 
+   "guess_extras": [], 
+   "guess": "ש.אורחים", 
+   "railing_on_perimeter": false, 
+   "id": 1622254, 
+   "contents": [
+    "Plumbing Fixtures | If_toilet_wall_hung_6505 : Wall_Hung_WC-Valverfa_2893[1]", 
+    "Plumbing Fixtures | כיור1 : 40/30"
+   ], 
+   "floor_types": [
+    "C20_T15 (+0.0)"
+   ], 
+   "truth_texts": [
+    "ש.אורחים"
+   ], 
+   "point_cm": [
+    2073.0, 
+    2016.0
+   ], 
+   "entrance_doors": 0
+  }, 
+  {
+   "wall_types": [
+    "B10", 
+    "C20"
+   ], 
+   "flags": {}, 
+   "area_m2": 0.95999999999999996, 
+   "rule": "small & empty", 
+   "truth_names": [
+    "פיר", 
+    "פיר"
+   ], 
+   "match": true, 
+   "doors": [], 
+   "guess_extras": [], 
+   "guess": "פיר", 
+   "railing_on_perimeter": false, 
+   "id": 1622210, 
+   "contents": [], 
+   "floor_types": [], 
+   "truth_texts": [
+    "פיר", 
+    "פיר"
+   ], 
+   "point_cm": [
+    2868.0, 
+    2577.0
+   ], 
+   "entrance_doors": 0
+  }, 
+  {
+   "wall_types": [
+    "C20"
+   ], 
+   "flags": {}, 
+   "area_m2": 0.83999999999999997, 
+   "rule": "small & empty", 
+   "truth_names": [], 
+   "match": null, 
+   "doors": [], 
+   "guess_extras": [], 
+   "guess": "פיר", 
+   "railing_on_perimeter": false, 
+   "id": 1622194, 
+   "contents": [], 
+   "floor_types": [], 
+   "truth_texts": [], 
+   "point_cm": [
+    2490.0, 
+    2630.0
+   ], 
+   "entrance_doors": 0
+  }, 
+  {
+   "wall_types": [
+    "B10", 
+    "C20"
+   ], 
+   "flags": {}, 
+   "area_m2": 0.78000000000000003, 
+   "rule": "small & empty", 
+   "truth_names": [
+    "פיר"
+   ], 
+   "match": true, 
+   "doors": [], 
+   "guess_extras": [], 
+   "guess": "פיר", 
+   "railing_on_perimeter": false, 
+   "id": 1622208, 
+   "contents": [], 
+   "floor_types": [], 
+   "truth_texts": [
+    "פיר"
+   ], 
+   "point_cm": [
+    2118.0, 
+    2445.0
+   ], 
+   "entrance_doors": 0
+  }, 
+  {
+   "wall_types": [
+    "B10", 
+    "C20"
+   ], 
+   "flags": {}, 
+   "area_m2": 0.5, 
+   "rule": "small & empty", 
+   "truth_names": [
+    "פיר"
+   ], 
+   "match": true, 
+   "doors": [], 
+   "guess_extras": [], 
+   "guess": "פיר", 
+   "railing_on_perimeter": false, 
+   "id": 1622202, 
+   "contents": [], 
+   "floor_types": [], 
+   "truth_texts": [
+    "פיר"
+   ], 
+   "point_cm": [
+    3123.0, 
+    1875.0
+   ], 
+   "entrance_doors": 0
+  }, 
+  {
+   "wall_types": [
+    "B10", 
+    "C20"
+   ], 
+   "flags": {}, 
+   "area_m2": 0.29999999999999999, 
+   "rule": "small & empty", 
+   "truth_names": [
+    "פיר"
+   ], 
+   "match": true, 
+   "doors": [], 
+   "guess_extras": [], 
+   "guess": "פיר", 
+   "railing_on_perimeter": false, 
+   "id": 1622206, 
+   "contents": [], 
+   "floor_types": [], 
+   "truth_texts": [
+    "פיר"
+   ], 
+   "point_cm": [
+    2013.0, 
+    2445.0
+   ], 
+   "entrance_doors": 0
+  }
+ ], 
+ "view": "08", 
+ "rooms_total": 44, 
+ "elevator_doors": [
+  {
+   "front_side_room": 1622198, 
+   "door_id": 885377, 
+   "back_side_room": 1622220, 
+   "chosen_inner": 1622198
+  }, 
+  {
+   "front_side_room": 1622198, 
+   "door_id": 885378, 
+   "back_side_room": 1622220, 
+   "chosen_inner": 1622198
+  }
+ ], 
+ "unmatched_texts": [
+  "קו מגמה תכנונית", 
+  "קו בניין", 
+  "קו גבול מגרש", 
+  "קו בניין", 
+  "קו בניין מגרש בודד", 
+  "קו בניין מקורי", 
+  "קו גבול מגרש", 
+  "קו בניין", 
+  "קו גבול מגרש", 
+  "קו גבול מגרש", 
+  "קומה 8", 
+  "קנ\"מ 1:100"
+ ], 
+ "rooms_matched": 42, 
+ "level": "08"
+}

@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Read(//c/Users/user/AppData/Roaming/pyRevit/Cache/**)",
+      "Read(//c/Users/user/OneDrive - אלון מיכאלי - אדריכל/ספריית ניסיונות/**)"
+    ]
+  }
+}
